@@ -1,5 +1,3 @@
-package mp;
-
 import java.util.HashMap;
 
 public class Main {
